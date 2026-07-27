@@ -54,14 +54,13 @@ def show_about():
         with col1:
             st.info(
                 "**📂 GitHub Repository**\n\n"
-                "[View on GitHub](https://github.com/yourusername/"
-                "insurance-cross-sell-analytics) *(placeholder)*"
+                "[View on GitHub](https://github.com/GouravGC/"
+                "Insurance-Cross-Sell-NoSQL-Analytics)"
             )
         with col2:
             st.info(
                 "**🌐 Live Demo**\n\n"
-                "[View Live App](https://your-demo-url.streamlit.app) "
-                "*(placeholder)*"
+                "[View Live App](https://insurance-cross-sell-nosql-analytics.streamlit.app/)"
             )
         with col3:
             st.info(
@@ -75,12 +74,15 @@ def show_about():
         st.markdown("## 👤 Author")
         st.markdown(
             """
-            **Gurucharan S**  
-            Data Scientist | Machine Learning Engineer
+            **Gourav Chhatwani**  
+            Aspiring Data Scientist And AI Engineer
+
+            - **GitHub:** [@GouravGC](https://github.com/GouravGC)
+            - **LinkedIn:** [Gourav Chhatwani](https://www.linkedin.com/in/gourav-chhatwani-9a301134a/)
 
             This project is part of a portfolio demonstrating end-to-end
             machine learning capabilities, from data exploration and NoSQL
             operations to model deployment with an interactive web application.
             """
-        )
-
+        )</｜｜DSML｜｜parameter>
+</｜｜DSML｜｜invoke>

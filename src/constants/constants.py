@@ -144,6 +144,6 @@ ABOUT_TECH_STACK = """
 # ---------------------------------------------------------------------------
 FOOTER_TEXT = (
     "Built with ❤️ using Streamlit | "
-    "Insurance Cross-Sell Analytics Portfolio Project"
+    "Insurance Cross-Sell NoSQL Analytics Portfolio Project | "
+    "Gourav Chhatwani"
 )
-

@@ -1,4 +1,4 @@
-# 🚗 Insurance Cross-Sell Analytics
+# 🚗 Insurance Cross-Sell NoSQL Analytics
 
 An end-to-end Machine Learning and NoSQL Analytics project that combines **MongoDB aggregation pipelines**, **customer analytics**, **feature engineering**, and **predictive modeling** to identify customers most likely to purchase vehicle insurance.
 
@@ -12,7 +12,7 @@ An end-to-end Machine Learning and NoSQL Analytics project that combines **Mongo
 
 ## 📋 Table of Contents
 
-- [🚗 Insurance Cross-Sell Analytics](#-insurance-cross-sell-analytics)
+- [🚗 Insurance Cross-Sell NoSQL Analytics](#-insurance-cross-sell-nosql-analytics)
   - [📋 Table of Contents](#-table-of-contents)
   - [🚀 Overview](#-overview)
   - [💼 Business Problem](#-business-problem)
@@ -224,8 +224,8 @@ Insurance Cross-Sell Analytics/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/insurance-cross-sell-analytics.git
-cd insurance-cross-sell-analytics
+git clone https://github.com/GouravGC/Insurance-Cross-Sell-NoSQL-Analytics.git
+cd Insurance-Cross-Sell-NoSQL-Analytics
 
 # 2. Create a virtual environment
 python -m venv venv
@@ -317,23 +317,22 @@ Navigate through the application using the **sidebar menu**:
 
 ## 🔗 Links
 
-- **📂 GitHub Repository:** [https://github.com/yourusername/insurance-cross-sell-analytics](https://github.com/yourusername/insurance-cross-sell-analytics) *(placeholder)*
-- **🌐 Live Demo:** [https://insurance-cross-sell-analytics.streamlit.app](https://insurance-cross-sell-analytics.streamlit.app) *(placeholder)*
+- **📂 GitHub Repository:** [https://github.com/GouravGC/Insurance-Cross-Sell-NoSQL-Analytics](https://github.com/GouravGC/Insurance-Cross-Sell-NoSQL-Analytics)
+- **🌐 Live Demo:** [https://insurance-cross-sell-nosql-analytics.streamlit.app/](https://insurance-cross-sell-nosql-analytics.streamlit.app/)
 
 ---
 
 ## 👤 Author
 
-**Gurucharan S**  
-Data Scientist | Machine Learning Engineer
+**Gourav Chhatwani**  
+Aspiring Data Scientist And AI Engineer
 
-- **GitHub:** [@gurucharans](https://github.com/gurucharans)
-- **LinkedIn:** [Gurucharan S](https://linkedin.com/in/gurucharans)
+- **GitHub:** [@GouravGC](https://github.com/GouravGC)
+- **LinkedIn:** [Gourav Chhatwani](https://www.linkedin.com/in/gourav-chhatwani-9a301134a/)
 
 ---
 
 <p align="center">
   Built with ❤️ using Streamlit<br>
-  <sub>Insurance Cross-Sell Analytics Portfolio Project</sub>
+  <sub>Insurance Cross-Sell NoSQL Analytics Portfolio Project</sub>
 </p>
-
