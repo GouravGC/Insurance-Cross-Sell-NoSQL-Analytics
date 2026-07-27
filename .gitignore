@@ -38,22 +38,25 @@ env/
 # ---------------------------------------------------------------------------
 .DS_Store
 Thumbs.db
-*.log
 
-# ---------------------------------------------------------------------------
-# Project-specific
 # ---------------------------------------------------------------------------
 # Logs
+# ---------------------------------------------------------------------------
 logs/
 *.log
-
-# Models (large files not tracked)
-# Note: Artifacts are tracked because they are required for deployment.
-# Uncomment below if you want to exclude them:
-# artifacts/models/*.joblib
 
 # ---------------------------------------------------------------------------
 # Streamlit
 # ---------------------------------------------------------------------------
 .streamlit/secrets.toml
 
+# ---------------------------------------------------------------------------
+# Ignore ONLY the huge Random Forest model
+# ---------------------------------------------------------------------------
+artifacts/models/random_forest_model.joblib
+
+# Ignore raw and processed datasets
+artifacts/raw_data/
+artifacts/preprocessed_data/
+
+TODO.MD

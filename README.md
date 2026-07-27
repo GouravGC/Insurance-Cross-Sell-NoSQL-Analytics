@@ -1,9 +1,9 @@
-# 🏥 Healthcare NoSQL Analytics — Insurance Cross-Sell Prediction
+# 🚗 Insurance Cross-Sell Analytics
 
-An end-to-end machine learning application that combines **NoSQL (MongoDB)** data operations with **predictive modeling** to identify customers likely to be interested in vehicle insurance — enabling targeted cross-selling campaigns.
+An end-to-end Machine Learning and NoSQL Analytics project that combines **MongoDB aggregation pipelines**, **customer analytics**, **feature engineering**, and **predictive modeling** to identify customers most likely to purchase vehicle insurance.
 
 <p align="center">
-  <img src="https://img.icons8.com/fluency/96/health-insurance.png" alt="Healthcare Icon" width="80"/>
+  <img src="https://img.icons8.com/fluency/96/car-insurance.png" alt="Insurance Cross-Sell Icon" width="80"/>
   <br>
   <em>Production-ready Streamlit application</em>
 </p>
@@ -12,18 +12,27 @@ An end-to-end machine learning application that combines **NoSQL (MongoDB)** dat
 
 ## 📋 Table of Contents
 
-- [Overview](#-overview)
-- [Business Problem](#-business-problem)
-- [Dataset](#-dataset)
-- [Machine Learning Workflow](#-machine-learning-workflow)
-- [Tech Stack](#-tech-stack)
-- [Project Structure](#-project-structure)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Deployment](#-deployment)
-- [Screenshots](#-screenshots)
-- [Links](#-links)
-- [Author](#-author)
+- [🚗 Insurance Cross-Sell Analytics](#-insurance-cross-sell-analytics)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [🚀 Overview](#-overview)
+  - [💼 Business Problem](#-business-problem)
+  - [📦 Dataset](#-dataset)
+    - [Features](#features)
+  - [🔬 Machine Learning Workflow](#-machine-learning-workflow)
+    - [Model Performance](#model-performance)
+  - [🛠️ Tech Stack](#️-tech-stack)
+  - [📁 Project Structure](#-project-structure)
+  - [🔧 Installation](#-installation)
+    - [Prerequisites](#prerequisites)
+    - [Local Setup](#local-setup)
+  - [🎯 Usage](#-usage)
+  - [🌐 Deployment](#-deployment)
+    - [Streamlit Community Cloud (Recommended)](#streamlit-community-cloud-recommended)
+    - [Render](#render)
+    - [Railway](#railway)
+  - [📸 Screenshots](#-screenshots)
+  - [🔗 Links](#-links)
+  - [👤 Author](#-author)
 
 ---
 
@@ -124,7 +133,7 @@ A health insurance company wants to **cross-sell vehicle insurance** to its exis
 ## 📁 Project Structure
 
 ```
-Healthcare NoSQL Analytics/
+Insurance Cross-Sell Analytics/
 ├── app.py                          # Main Streamlit application
 ├── requirements.txt                # Python dependencies
 ├── README.md                       # Project documentation
@@ -197,7 +206,7 @@ Healthcare NoSQL Analytics/
 │           └── random_forest_feature_importance.png
 │
 ├── Notebooks/                      # Jupyter notebooks (source of truth)
-│   └── Copy of Healthcare NoSQL Analytics Markdown Done.ipynb
+│   └── Copy of Healthcare NoSQL Analytics Markdown Done.ipynb  # Analysis notebook (rename pending)
 │
 └── logs/                           # Application logs (auto-generated)
 ```
@@ -215,8 +224,8 @@ Healthcare NoSQL Analytics/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/healthcare-nosql-analytics.git
-cd healthcare-nosql-analytics
+git clone https://github.com/yourusername/insurance-cross-sell-analytics.git
+cd insurance-cross-sell-analytics
 
 # 2. Create a virtual environment
 python -m venv venv
@@ -308,8 +317,8 @@ Navigate through the application using the **sidebar menu**:
 
 ## 🔗 Links
 
-- **📂 GitHub Repository:** [https://github.com/yourusername/healthcare-nosql-analytics](https://github.com/yourusername/healthcare-nosql-analytics) *(placeholder)*
-- **🌐 Live Demo:** [https://healthcare-nosql-analytics.streamlit.app](https://healthcare-nosql-analytics.streamlit.app) *(placeholder)*
+- **📂 GitHub Repository:** [https://github.com/yourusername/insurance-cross-sell-analytics](https://github.com/yourusername/insurance-cross-sell-analytics) *(placeholder)*
+- **🌐 Live Demo:** [https://insurance-cross-sell-analytics.streamlit.app](https://insurance-cross-sell-analytics.streamlit.app) *(placeholder)*
 
 ---
 
@@ -325,6 +334,6 @@ Data Scientist | Machine Learning Engineer
 
 <p align="center">
   Built with ❤️ using Streamlit<br>
-  <sub>Healthcare NoSQL Analytics Portfolio Project</sub>
+  <sub>Insurance Cross-Sell Analytics Portfolio Project</sub>
 </p>
 

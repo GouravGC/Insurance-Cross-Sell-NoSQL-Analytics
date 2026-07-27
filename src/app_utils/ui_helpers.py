@@ -14,11 +14,11 @@ def render_sidebar():
     """Render the sidebar navigation."""
     with st.sidebar:
         st.image(
-            "https://img.icons8.com/fluency/96/health-insurance.png",
+            "https://img.icons8.com/fluency/96/car-insurance.png",
             width=80,
         )
-        st.markdown("### Healthcare NoSQL")
-        st.markdown("**Analytics Dashboard**")
+        st.markdown("### Insurance Cross-Sell")
+        st.markdown("**Analytics Platform**")
         st.divider()
 
         selected = st.radio("Navigation", PAGES, label_visibility="collapsed")

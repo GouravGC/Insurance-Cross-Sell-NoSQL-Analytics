@@ -1,5 +1,5 @@
 # =============================================================================
-# Healthcare NoSQL Analytics - Production Requirements
+# Insurance Cross-Sell Analytics - Production Requirements
 # Python Version: 3.11.10
 # =============================================================================
 

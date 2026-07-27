@@ -75,7 +75,8 @@ DOWNLOAD_HEADING = "Download Center"
 # ---------------------------------------------------------------------------
 ABOUT_PROJECT_OVERVIEW = """
 This project demonstrates the integration of **NoSQL (MongoDB)** data operations with **Machine Learning**
-to solve a real-world business problem — predicting customer interest in vehicle insurance.
+to solve a real-world insurance business problem — predicting which existing health insurance customers
+are most likely to purchase vehicle insurance (cross-sell).
 
 The workflow includes:
 - **Data Exploration & Cleaning** using Pandas
@@ -143,6 +144,6 @@ ABOUT_TECH_STACK = """
 # ---------------------------------------------------------------------------
 FOOTER_TEXT = (
     "Built with ❤️ using Streamlit | "
-    "Healthcare NoSQL Analytics Portfolio Project"
+    "Insurance Cross-Sell Analytics Portfolio Project"
 )
 

@@ -1,5 +1,5 @@
 """
-Main entry point for the Healthcare NoSQL Analytics Streamlit application.
+Main entry point for the Insurance Cross-Sell Analytics Streamlit application.
 
 Usage:
     streamlit run app.py

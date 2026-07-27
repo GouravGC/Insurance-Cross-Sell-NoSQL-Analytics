@@ -1,5 +1,5 @@
 """
-Configuration module for the Healthcare NoSQL Analytics application.
+Configuration module for the Insurance Cross-Sell Analytics application.
 Centralizes all paths, model parameters, and application settings.
 """
 import os
@@ -120,8 +120,8 @@ MODEL_DISPLAY_NAMES = {
 # ---------------------------------------------------------------------------
 # Application Settings
 # ---------------------------------------------------------------------------
-APP_TITLE = "Healthcare NoSQL Analytics — Insurance Cross-Sell Prediction"
-APP_ICON = "🏥"
+APP_TITLE = "Insurance Cross-Sell Analytics — Customer Interest Prediction"
+APP_ICON = "🚗"
 APP_LAYOUT = "wide"
 SIDEBAR_STATE = "expanded"
 

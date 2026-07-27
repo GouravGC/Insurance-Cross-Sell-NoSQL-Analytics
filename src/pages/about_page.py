@@ -55,7 +55,7 @@ def show_about():
             st.info(
                 "**📂 GitHub Repository**\n\n"
                 "[View on GitHub](https://github.com/yourusername/"
-                "healthcare-nosql-analytics) *(placeholder)*"
+                "insurance-cross-sell-analytics) *(placeholder)*"
             )
         with col2:
             st.info(

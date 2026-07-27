@@ -11,7 +11,7 @@ from src.app_utils.ui_helpers import render_metric_cards
 
 def show_home():
     """Render the home page."""
-    st.title(f"🏥 {HOME_HEADING}")
+    st.title(f"🚗 {HOME_HEADING}")
     st.markdown(f"**{HOME_SUBHEADING}**")
     st.divider()
 
