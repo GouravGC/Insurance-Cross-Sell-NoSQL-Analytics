@@ -33,6 +33,24 @@ def render_sidebar():
 
         st.divider()
         st.caption("v1.0.0")
+
+        st.divider()
+        st.markdown("#### 🔗 Links")
+        st.link_button(
+            "📂 GitHub Repository",
+            "https://github.com/GouravGC/Insurance-Cross-Sell-NoSQL-Analytics",
+            use_container_width=True,
+        )
+        st.link_button(
+            "💼 LinkedIn",
+            "https://www.linkedin.com/in/gourav-chhatwani-9a301134a/",
+            use_container_width=True,
+        )
+        st.link_button(
+            "🌐 Live Demo",
+            "https://insurance-cross-sell-nosql-analytics.streamlit.app/",
+            use_container_width=True,
+        )
         return selected
 
 
