@@ -318,7 +318,7 @@ Navigate through the application using the **sidebar menu**:
 ## 🔗 Links
 
 - **📂 GitHub Repository:** [https://github.com/GouravGC/Insurance-Cross-Sell-NoSQL-Analytics](https://github.com/GouravGC/Insurance-Cross-Sell-NoSQL-Analytics)
-- **🌐 Live Demo:** [https://insurance-cross-sell-nosql-analytics.streamlit.app/](https://insurance-cross-sell-nosql-analytics.streamlit.app/)
+- **🌐 Live Demo:** [https://insurance-cross-sell-nosql-analytics.streamlit.app/](https://insurance-cross-sell-nosql-analytics.streamlit.app/) (Live Demo Note: The Streamlit Community Cloud app may be asleep due to inactivity. If prompted, click “Yes, get this app back up!” and wait a few seconds for the app to load.)
 
 ---
 
