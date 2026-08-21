@@ -3,7 +3,7 @@
 An end-to-end Machine Learning and NoSQL Analytics project that combines **MongoDB aggregation pipelines**, **customer analytics**, **feature engineering**, and **predictive modeling** to identify customers most likely to purchase vehicle insurance.
 
 <p align="center">
-  <img src="https://img.icons8.com/fluency/96/car-insurance.png" alt="Insurance Cross-Sell Icon" width="80"/>
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/business-professional-services/car-insurance-icon.png" alt="Insurance Cross-Sell Icon" width="80"/>
   <br>
   <em>Production-ready Streamlit application</em>
 </p>
